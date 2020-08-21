@@ -1,4 +1,3 @@
-input_phrase = "Hello"
 def speak_to_grandma(phrase)
 
   
